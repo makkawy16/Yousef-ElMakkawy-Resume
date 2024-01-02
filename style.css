@@ -1,0 +1,18 @@
+body {
+    height: 100%;
+}
+
+.side-bar {
+    background-color: #42A8C0;
+    height: 100vh;
+}
+
+.my-img {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+
+.content {
+    float: right;
+}
