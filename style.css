@@ -1,10 +1,5 @@
-body {
-    height: 100%;
-}
-
 .side-bar {
     background-color: #42A8C0;
-    height: 100vh;
 }
 
 .my-img {
@@ -15,4 +10,31 @@ body {
 
 .content {
     float: right;
+}
+
+h2 {
+    background-color: #42A8C070;
+    border-radius: 20px;
+    padding-left: 15px;
+}
+
+h3 {
+    background-color: #42A8C030;
+    border-radius: 20px;
+    padding-left: 15px;
+}
+
+span {
+    color: #42A8C0;
+    font-weight: bold;
+}
+
+li {
+    font-size: larger;
+}
+
+.elements {
+    font-size: x-large;
+    margin-left: 25px;
+    margin-bottom: 5px;
 }
